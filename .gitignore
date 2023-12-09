@@ -1,5 +1,5 @@
 # Exclude .vscode on each directory
-MLOps/session-[1-9]/.vscode
+MLOps/session-[1-9]/.vscode/
 
 # Exclude data sets (data folder)
 MLOps/session-[1-9]/data/
