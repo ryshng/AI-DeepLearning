@@ -1,2 +1,8 @@
-*.tfrecords
-data/
+# Exclude .vscode on each directory
+MLOps/session-[1-9]/.vscode
+
+# Exclude data sets (data folder)
+MLOps/session-[1-9]/data/
+
+# Exclude special files
+MLOps/session-2/*.tfrecords
